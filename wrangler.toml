@@ -1,2 +1,3 @@
 name = "nexora-geo-setup"
-type = "javascript"
+compatibility_date = "2026-09-30"
+main = "src/index.js"
